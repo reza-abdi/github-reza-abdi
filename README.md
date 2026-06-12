@@ -24,11 +24,17 @@ Contact me with any questions about my code or projects at [syedreza@ualberta.ca
 
 ## Connect with Me ##
 
-You can find me on [![LinkedIn][1.2]][1] or at [syedreza@ualberta.ca](mailto:syedreza@ualberta.ca).
+You can find me on 
+<a href="https://www.linkedin.com/in/syedreza-abdi/">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png"
+       alt="LinkedIn"
+       width="24">
+</a>
+or at [syedreza@ualberta.ca](mailto:syedreza@ualberta.ca).
 
 <!-- Icons -->
 
-[1.2]: https://img.logo.dev/linkedin.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=true&format=png (LinkedIn icon without padding)
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (linkedin image)
 
 <!-- Links to your social media accounts -->
 
