@@ -68,8 +68,8 @@ or at [syedreza@ualberta.ca](mailto:syedreza@ualberta.ca).
   <a href="https://www.se.com">
     <img src="https://img.logo.dev/se.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=true&format=png" width="50" style="border-radius: 50%;">
   </a>
-  <a href="https://www.nasa.gov/">
-    <img src="https://img.icons8.com/color/600/nasa.png" width="50" style="border-radius: 50%;">
+  <a href="https://www.tronic.co.tz/">
+    <img src="images/aj-tronics.png" width="50" style="border-radius: 50%;">
   </a>
   <a href="https://www.nasdaq.com/">
     <img src="https://github.com/user-attachments/assets/9e043aea-0552-427f-9ac6-2680b53682c7" width="50" style="border-radius: 50%;">
