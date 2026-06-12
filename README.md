@@ -71,10 +71,7 @@ or at [syedreza@ualberta.ca](mailto:syedreza@ualberta.ca).
   <a href="https://www.tronic.co.tz/">
     <img src="images/aj-tronics.png" width="50" style="border-radius: 50%;">
   </a>
-  <a href="https://www.nasdaq.com/">
-    <img src="https://github.com/user-attachments/assets/9e043aea-0552-427f-9ac6-2680b53682c7" width="50" style="border-radius: 50%;">
-  </a>
-  <a href="https://inkeep.com/">
-    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGAKrHYoninwg/company-logo_200_200/company-logo_200_200/0/1689206298999/inkeep_logo?e=2147483647&v=beta&t=0LSLBzMBiiLDwhaqe8bHWGJryAgASipsj08FMXqlf_c" width="50" height: "70" style="border-radius: 50%;">
+  <a href="https://www.ualberta.ca/">
+    <img src="images/ualberta-ca.png" width="50" style="border-radius: 50%;">
   </a>
 </div>
