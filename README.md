@@ -11,6 +11,7 @@ Check out some of my previous coding projects!
 Contact me with any questions about my code or projects at [syedreza@ualberta.ca](mailto:syedreza@ualberta.ca)
 
 ---
+<!--  
 
 ## My Github Stats ##
 
@@ -19,7 +20,8 @@ Contact me with any questions about my code or projects at [syedreza@ualberta.ca
 ![Languages Used](generated/languages.svg)
 
 ![Overview](generated/overview.svg)
-  
+
+-->
 --- 
 
 ## Connect with Me ##
