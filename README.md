@@ -56,11 +56,11 @@ You can find me on [![LinkedIn][1.2]][1] or at [syedreza@ualberta.ca](mailto:sye
 
 ## Previously at:
 <div align="center">
-  <a href="https://www.facebook.com/">
-    <img src="https://i.pinimg.com/736x/b7/06/fa/b706fa17832e8854ee125404a655f0df.jpg" width="50" style="border-radius: 50%;">
+  <a href="https://ureka.co.uk/">
+    <img src="https://img.logo.dev/ureka.co.uk?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=true&format=png" width="50" style="border-radius: 50%;">
   </a>
-  <a href="https://scale.com/">
-    <img src="https://pbs.twimg.com/profile_images/1414735088621813760/3NZOfCUw_400x400.png" width="50" style="border-radius: 50%;">
+  <a href="https://www.se.com/ww/en/">
+    <img src="https://img.logo.dev/se.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=true&format=png" width="50" style="border-radius: 50%;">
   </a>
   <a href="https://www.nasa.gov/">
     <img src="https://img.icons8.com/color/600/nasa.png" width="50" style="border-radius: 50%;">
